@@ -1,1 +1,1 @@
-$\pi = 2.718$ almost everywhere.
+$e = 2.718$ almost everywhere.
